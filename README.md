@@ -93,7 +93,7 @@
 </p>
 
 
- ### <picture>  </picture> Sistemas Operativos
+### <picture> <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-operating-system-computer-science-flat-flat-juicy-fish.png" width = 50px> </picture> Sistemas Operativos
  
 <p align="center">
   &emsp;
