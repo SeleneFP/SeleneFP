@@ -31,7 +31,7 @@
 - :computer: Soy programadora competitiva.
 - :student: Actualmente, estoy enfocada en desarrollo frontend y continúo aprendiendo y mejorando mis habilidades.
 - :nerd_face: Siempre estoy `aprendiendo cosas nuevas`.
-- :thinking: Actualmente, estoy abierta a nuevas `oportunidades laborales`. Este es mi [CV](https://www.linkedin.com/in/selene-flores-602851236/).
+- :thinking: Actualmente, estoy abierta a nuevas `oportunidades laborales`. Este es mi [CV](https://drive.google.com/file/d/1HJpGh_Hw0jeyYIvq4I_a3OOf7BBHDFKN/view?usp=sharing).
 <br>
 
 
