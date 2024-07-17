@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy Selene Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2334D399&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniera+de+Sistemas+en+UPN;Desarrolladora+Frontend;Programadora+Competitiva;Solucionadora+de+Problemas;Apasionada+por+la+Tecnología;Abierta+a+Nuevas+Oportunidades">
   </a>
 </p>
