@@ -93,7 +93,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
+ ### <picture>  </picture> Sistemas Operativos
  
 <p align="center">
   &emsp;
