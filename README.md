@@ -27,11 +27,11 @@
 <br><br>
 
 - :school: Soy estudiante de Ingeniería de Sistemas Computacionales en la Universidad Privada del Norte.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer.
-- :student: Actualmente, estoy enfocada en Desarrollo Frontend y continúo aprendiendo y mejorando mis habilidades.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/selene-flores-602851236/).
+- :technologist: Me encanta utilizar el software como solución para cada `problema`.
+- :computer: Soy programadora competitiva.
+- :student: Actualmente, estoy enfocada en desarrollo frontend y continúo aprendiendo y mejorando mis habilidades.
+- :nerd_face: Siempre estoy `aprendiendo cosas nuevas`.
+- :thinking: Actualmente, estoy abierta a nuevas `oportunidades laborales`. Este es mi [CV](https://www.linkedin.com/in/selene-flores-602851236/).
 <br>
 
 
