@@ -5,17 +5,10 @@
   </a>
 </p>
 
-
-
-
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Acerca de mí
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+br>
 
 - :school: Soy estudiante de Ingeniería de Sistemas Computacionales en la Universidad Privada del Norte.
 - :technologist: Me encanta utilizar el software como solución para cada `problema`.
